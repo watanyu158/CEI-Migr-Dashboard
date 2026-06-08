@@ -1,5 +1,5 @@
-# HKT SAT Migration Dashboard
-ระบบติดตามการ Migration อุปกรณ์เครือข่าย ท่าอากาศยานนานาชาติภูเก็ต (HKT)
+# CEI SAT Migration Dashboard
+ระบบติดตามการ Migration อุปกรณ์เครือข่าย ท่าอากาศยานนานาชาติเชียงราย (CEI)
 
 ## Setup
 ```bash
